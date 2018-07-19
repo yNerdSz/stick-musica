@@ -22,7 +22,7 @@ client.on('reconnecting', () => console.log('Reconectando...'));
 
 client.on('ready', () =>{
 	
-    client.user.setActivity('!comandos',
+    client.user.setActivity('Feito com amor por: yNerdSz'
     {type: 'PLAYING', url: 'https://twitch.tv/olszera'});
     console.log('────────────────────────────');
     console.log('     Construtor    ');
@@ -242,4 +242,4 @@ function play(guild, song) {
     serverQueue.textChannel.send(`Tocando agora: **${serverQueue.songs[0].title}**`);
 }
 
-client.login(`NDUxNDQ3MDgxODkxMDA0NDE4.DfB6dA.Z1myKkepi5yZ21zl_cf4X1CkZ9Y`);
+client.login(`NDY3MDU3Mzg0NTk0OTk3MjU4.DjF0pA.1HIEmX9ZYfqUa7ae_ZU6Ok_JKgY`);
