@@ -242,4 +242,4 @@ function play(guild, song) {
     serverQueue.textChannel.send(`Tocando agora: **${serverQueue.songs[0].title}**`);
 }
 
-client.login(`NDY3MDU3Mzg0NTk0OTk3MjU4.DjF0pA.1HIEmX9ZYfqUa7ae_ZU6Ok_JKgY`);
+a
